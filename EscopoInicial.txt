@@ -1,0 +1,49 @@
+Sistema ?
+
+
+Levantamento de requistos.
+
+- Sistema de Rede social.
+- BBB
+- Debates
+
+- Cadastro de pessoas/perfil
+- Sala de bate papo/Grupos
+- Meu grupo de pessoas faz parte
+- home publicar algo e ver o que seus amigos estão publicando.
+
+wireframe 
+mockup
+banco de dados
+
+Ferramentas:
+
+Html, Bootstrap, js, php e codeigniter.
+
+Front-end
+Back-end
+
+- os jogos serão escolhidos no inicio do BBB
+- sala armazenada por um tempo
+- aparece no roll do participante
+
+
+nome banco: bd_bbb
+entidades:
+tbusuario: codusu, loginusu, senhausu,
+
+tbparticipantes: codptc, codusu, nomeptc, datanascptc, statusptc,  
+
+tbparedao
+
+tbanjo
+tblider
+tbbatepapo
+tbqueridometro
+tbjogodadiscordia
+tbdetalhessala
+tbjogos
+
+
+
+
